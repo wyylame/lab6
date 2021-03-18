@@ -5,6 +5,12 @@ body {
     color: whitesmoke;
 }
 
+.wrapper {
+	display: block;
+	height: 1150px;
+
+}
+
 .header {
     height: 100px;
     width: 100%;
@@ -18,10 +24,10 @@ body {
     position: relative;
     display: block;
     margin-top: 40px;
-    float: inline-end;
     width: 100%;
     background-color: #383838;
-    padding: 10px;
+    padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #footer span {
